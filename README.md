@@ -1,17 +1,39 @@
+<div align="center">
+
 # Hi there 👋, My name is André Barcellos
 
+</div>
+
+
+
+<div align="center">
+
 ## 💫 Liitle Bit About Me
+
+</div>
+
+
+<div align="center">
 
 <p>🔭 I'm currently working on Full Stack Web Developer</p>
 <p>🌱 I'm currently learning React and NodeJS</p>
 
+</div>
+
+
+<div align="center">
+
 ## 📊 Github Status
+
+</div>
 
 <div align="center">
   <a href="https://github.com/AndBarcellos">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<div align="center">
 
 ## 🚀 Skills
 <div style="display: inline_block"><br>
@@ -23,8 +45,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
  
+  </div>
   
-</div>
+  <div align="center">
 
 ## 👥 Connect With Me
 <p>
