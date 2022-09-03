@@ -1,27 +1,36 @@
 # Hi there 👋, My name is André Barcellos
 
-## 💫 Liitle Bit More About Me
+## 💫 Liitle Bit About Me
+
+<p>🔭 I'm currently working on Full Stack Web Developer</p>
 <p>🌱 I'm currently learning React and NodeJS</p>
-<p>📫 How to reach me? andrebarcellos.dev@gmail.com</p>
+
+## 📊 Github Status
 
 <div align="center">
   <a href="https://github.com/AndBarcellos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+## 🚀 Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+ 
+  
+</div>
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/perfilandrebarcellos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/perfilandrebarcellos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
