@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<p>🔭 I'm currently working on Full Stack Web Developer</p>
+<p>🔭 I'm currently working as a Full Stack Web Developer</p>
 <p>🌱 I'm currently learning React and NodeJS</p>
 
 </div>
