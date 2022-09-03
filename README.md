@@ -30,7 +30,7 @@
 <p>
 <a href="https://linkedin.com/in/perfilandrebarcellos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AndBarcellos/AndBarcellos/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 
