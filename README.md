@@ -29,9 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/AndBarcellos">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=default&langs_count=7&theme=aura"/>
 </div>
+
 
 ## 🚀 Skills
 <div style="display: inline_block"><br>
