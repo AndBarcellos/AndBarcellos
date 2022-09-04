@@ -30,7 +30,7 @@
 
   <a href="https://github.com/AndBarcellos">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=compact&langs_count=7&theme=aura"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndBarcellos&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 <div align="center">
