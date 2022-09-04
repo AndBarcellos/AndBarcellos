@@ -27,12 +27,14 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/AndBarcellos">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AndBarcellos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andbarcellos&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
+<p>
+<a href="https://github.com/gabrieldiasss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiasss&theme=gotham" />
+</a>
+<a href="https://github.com/gabrieldiasss">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieldiasss&show_icons=true&theme=gotham" alt="gabrieldiasss" />
+</a>
+</p>
 <div align="center">
 
 ## 🚀 Skills
