@@ -1,21 +1,22 @@
 <div align="center">
 
-# Olá!👋, Meu nome é André Barcellos
+# Hello!👋, My name is André Barcellos
 
 </div>
 
 
 <div align="center">
 
-## 💫 Um pouco sobre mim
+## 💫 A little about me
+
 
 </div>
 
 
 <div align="center">
 
-<p>🔭 Desenvolvedor Web Full Stack
-<p>🌱 Atualmente estou estudando React.js e Node.js
+<p>🔭 Full Stack Developer
+<p>🌱 I am currently studying React.js and Node.js
 <p>🔍 Em busca da primeira oportunidade como Desenvolvedor Jr</p>
 
 </div>
@@ -54,7 +55,7 @@
   
   <div align="center">
 
-## 👥 Conecte-se comigo
+## 👥 connect with me
 <p>
 <a href="https://linkedin.com/in/perfilandrebarcellos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
