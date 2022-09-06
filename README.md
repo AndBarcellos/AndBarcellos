@@ -16,8 +16,7 @@
 <div align="center">
 
 <p>🔭 Full Stack Developer
-<p>🌱 I am currently studying React.js and Node.js
-<p>🔍 Em busca da primeira oportunidade como Desenvolvedor Jr</p>
+<p>🌱 I am currently studying React.js and Node.js </p>
 
 </div>
 
