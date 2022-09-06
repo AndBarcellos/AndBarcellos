@@ -15,9 +15,9 @@
 
 <div align="center">
 
-<p>🔭 Full Stack Developer
-<p>🌱 I am currently studying React.js and Node.js 
-<p>😃 I love technology, coffee and applying knowledge to solve problems.</p>
+<p>- Full Stack Developer -
+<p>- I am currently studying React.js and Node.js -
+<p>- I love technology, coffee and applying knowledge to solve problems -</p>
 
 </div>
 
